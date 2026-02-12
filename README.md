@@ -22,7 +22,7 @@ A fun and interactive memory card matching game built with React and Vite.
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/SamaM80/MEMORY-CARD.git
 cd MEMORY-CARD
 ```
 
